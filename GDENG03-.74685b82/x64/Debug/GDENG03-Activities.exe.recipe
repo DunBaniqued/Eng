@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\Student\Documents\GDENG03 Files\GDENG03-Activities-RefactoredCode\GDENG03-Activities-RefactoredCode\GDENG03-Activities\x64\Debug\GDENG03-Activities.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\Student\Documents\GDENG03 Files\GDENG03-Activities-RefactoredCode\GDENG03-Activities-RefactoredCode\GDENG03-Activities\PixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Student\Documents\GDENG03 Files\GDENG03-Activities-RefactoredCode\GDENG03-Activities-RefactoredCode\GDENG03-Activities\VertexShader.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

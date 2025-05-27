@@ -1,0 +1,28 @@
+﻿  compilation object save succeeded; see C:\Users\Student\Documents\GDENG03 Files\GDENG03-Activities-RefactoredCode\GDENG03-Activities-RefactoredCode\GDENG03-Activities\PixelShader.cso
+  compilation object save succeeded; see C:\Users\Student\Documents\GDENG03 Files\GDENG03-Activities-RefactoredCode\GDENG03-Activities-RefactoredCode\GDENG03-Activities\VertexShader.cso
+  AComponent.cpp
+  AGameObject.cpp
+  ARenderer.cpp
+  ConstantBuffer.cpp
+  EmptyGameObject.cpp
+  GameEngineWindow.cpp
+  GameObjectManager.cpp
+  GraphicsEngine.cpp
+C:\Users\Student\Documents\GDENG03 Files\GDENG03-Activities-RefactoredCode\GDENG03-Activities-RefactoredCode\GDENG03-Activities\GraphicsEngine.cpp(145,16): warning C4244: '=': conversion from 'UINT' to 'FLOAT', possible loss of data
+C:\Users\Student\Documents\GDENG03 Files\GDENG03-Activities-RefactoredCode\GDENG03-Activities-RefactoredCode\GDENG03-Activities\GraphicsEngine.cpp(146,17): warning C4244: '=': conversion from 'UINT' to 'FLOAT', possible loss of data
+  IndexBuffer.cpp
+C:\Users\Student\Documents\GDENG03 Files\GDENG03-Activities-RefactoredCode\GDENG03-Activities-RefactoredCode\GDENG03-Activities\IndexBuffer.cpp(7,25): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+  MeshRenderer.cpp
+C:\Users\Student\Documents\GDENG03 Files\GDENG03-Activities-RefactoredCode\GDENG03-Activities-RefactoredCode\GDENG03-Activities\VertexBuffer.cpp(8,26): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+  Shader.cpp
+C:\Users\Student\Documents\GDENG03 Files\GDENG03-Activities-RefactoredCode\GDENG03-Activities-RefactoredCode\GDENG03-Activities\Shader.cpp(61,6): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  ShaderManager.cpp
+C:\Users\Student\Documents\GDENG03 Files\GDENG03-Activities-RefactoredCode\GDENG03-Activities-RefactoredCode\GDENG03-Activities\ShaderManager.cpp(71,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SwapChain.cpp
+  Transform.cpp
+  VertexBuffer.cpp
+  Window.cpp
+  WindowsMessageMap.cpp
+  WinMain.cpp
+  Generating Code...
+  GDENG03-Activities.vcxproj -> C:\Users\Student\Documents\GDENG03 Files\GDENG03-Activities-RefactoredCode\GDENG03-Activities-RefactoredCode\GDENG03-Activities\x64\Debug\GDENG03-Activities.exe
